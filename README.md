@@ -8,7 +8,7 @@ A escolha pela Azure parte do tipo de aplicação (e-commerce sobre stack .NET c
 
 ![Diagrama da arquitetura Azure](arquitetura-azure-bootcamp.svg)
 
-O arquivo editável está em [`arquitetura-azure-bootcamp.drawio`](arquitetura-azure-bootcamp.drawio) e abre no [draw.io](https://app.diagrams.net).
+O arquivo editável está em [`arquitetura-azure-bootcamp.drawio`](Bootcamp.drawio) e abre no [draw.io](https://app.diagrams.net).
 
 ## O que o sistema precisa resolver
 
